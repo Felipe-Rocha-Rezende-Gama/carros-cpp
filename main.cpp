@@ -1,11 +1,11 @@
-﻿#include <iostream>
+#include <iostream>
 #include <string>
 
 
 using namespace std;
 
 int main(){
-   
+   cout << "Olá mundo!";
 
    return 0;
 }
